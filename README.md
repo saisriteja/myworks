@@ -14,6 +14,7 @@
 # Machine Learning
 
  - [cervical cancer data analysis and prediction(python+sklearn+keras)](https://github.com/saisriteja/cervicalcancer)
+ - [Tracking a group of Swarm fishes using kalman filters and image processing(python+opencv+pykalman)](https://github.com/saisriteja/swarmdetectionpykalman)
 
 
 # Deep Learining
