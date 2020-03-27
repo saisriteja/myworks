@@ -6,7 +6,7 @@
 
 ## Front End Web Developement
 
-### Portfolio
+### Designed Portfolio
 
 - [Vishnu Vasista](https://saisriteja.github.io/vishnucv/)
 - [Dharan Yadav](https://saisriteja.github.io/dharancv/)
