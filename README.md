@@ -12,9 +12,10 @@
 - [Dharan Yadav](https://saisriteja.github.io/dharancv/)
 
 # Machine Learning
-<br/>
+
  - [cervical cancer data analysis and prediction(python+sklearn+keras)](https://github.com/saisriteja/cervicalcancer)
 
+<br>
 # Deep Learining
  - [End to End sign language using NLP and CNN(python+NLTK+keras)](https://github.com/saisriteja/sign-language-communication/)
  - [Emotion recognition using Audio and facial-expression features using 3D convnets(python+keras+opencv)](https://github.com/saisriteja/facial-emotion-recognition)
