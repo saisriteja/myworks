@@ -17,5 +17,5 @@
 
 # Deep Learining
  - [End to End sign language](https://github.com/saisriteja/sign-language-communication/)
- - [Emotion recognition using audio and facial features](https://github.com/saisriteja/facial-emotion-recognition)
+ - [Emotion recognition using Audio and facial-expression features](https://github.com/saisriteja/facial-emotion-recognition)
 
